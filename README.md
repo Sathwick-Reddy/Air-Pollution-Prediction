@@ -1,9 +1,5 @@
 <div align="center"><img src="https://img.shields.io/badge/Air%20Quality%20Prediction-Machine%20Learning-green?style=for-the-badge&logo=python"></div>
 Air Quality Prediction Using Machine Learning
-Author: INLIGHN TECH
-Platform: Google Colab
-Difficulty: Medium
-Technologies: Python, Pandas, scikit-learn, Matplotlib, Seaborn
 
 📊 Project Overview
 This project implements a machine learning workflow to predict the Air Quality Index (AQI) for major Indian cities using multiple pollutant and environmental parameters. It follows all requirements specified by INLIGHN TECH for educational, research, or demo use, and is fully compatible with Google Colab.
